@@ -1,0 +1,10 @@
+body{overflow-x:hidden;background-color:grey;}
+.font-30{font-size:30px;}
+.bg-purple{background-color:purple;}
+.bg-whitesmoke{background-color:whitesmoke;}
+.calender{color:grey;font-size:10px;}
+.share{color:royalblue;font-size:10px;}
+.row bg-danger
+{
+    position: fixed;
+}
